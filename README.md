@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# assembler-addressing-modes-lab
+
+<sub>Praktikum assembly mikroprosesor & mikrokontroler - addressing mode dan instruksi dasar.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | assembler-addressing-modes-lab |
+| Primary language | Assembly |
+| Topics | assembly, computer-architecture, dosbox, microcontroller, microprocessor, praktikum |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+assembler-addressing-modes-lab is a hands-on repository focused on: Praktikum assembly mikroprosesor & mikrokontroler - addressing mode dan instruksi dasar.. Primary language: Assembly. Topics: assembly, computer-architecture, dosbox, microcontroller, microprocessor, praktikum. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
