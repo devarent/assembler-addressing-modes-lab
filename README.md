@@ -36,7 +36,7 @@ assembler-addressing-modes-lab is a hands-on repository focused on: Praktikum as
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/praktikum-assembler-mikroprosesor-mikrokontroler-1f6feb?style=for-the-badge" alt="praktikum-assembler-mikroprosesor-mikrokontroler" />
+<img src="https://img.shields.io/badge/assembler-addressing-modes-lab-1f6feb?style=for-the-badge" alt="assembler-addressing-modes-lab" />
 <img src="https://img.shields.io/badge/LANG%20Assembly-3178c6?style=for-the-badge" alt="LANG Assembly" />
 <img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
 <img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
@@ -59,7 +59,7 @@ assembler-addressing-modes-lab is a hands-on repository focused on: Praktikum as
 
 ⚙
 
-# praktikum-assembler-mikroprosesor-mikrokontroler
+# assembler-addressing-modes-lab
 
 **Materi dan praktikum pemrograman assembly untuk mikroprosesor dan mikrokontroler.**
 
@@ -80,7 +80,7 @@ Materi dan praktikum pemrograman assembly untuk mikroprosesor dan mikrokontroler
 ## Project Structure
 
 ```text
-praktikum-assembler-mikroprosesor-mikrokontroler/
+assembler-addressing-modes-lab/
 |-- .gitignore
 |-- ARYA31.COM
 |-- Kuis3_1_Addressing.asm
@@ -91,8 +91,8 @@ praktikum-assembler-mikroprosesor-mikrokontroler/
 ## Getting Started
 
 `ash
-git clone https://github.com/devarent/praktikum-assembler-mikroprosesor-mikrokontroler.git
-cd praktikum-assembler-mikroprosesor-mikrokontroler
+git clone https://github.com/devarent/assembler-addressing-modes-lab.git
+cd assembler-addressing-modes-lab
 `
 
 Ikuti petunjuk pada file dokumentasi di dalam repository untuk menyiapkan lingkungan pengembangan.
@@ -121,7 +121,7 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE).
 
 ## Project Governance
 
-[![CI](https://github.com/devarent/praktikum-assembler-mikroprosesor-mikrokontroler/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/praktikum-assembler-mikroprosesor-mikrokontroler/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/assembler-addressing-modes-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/assembler-addressing-modes-lab/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
